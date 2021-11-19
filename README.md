@@ -1,4 +1,2 @@
-# Hello-World
-this is first repository
-I change this file to test commit.
-ok.
+# Color segmentation with kmeans algorithm
+This is a simple example for applying kmeans algorithm.
